@@ -4,6 +4,8 @@ This is my personal study guide for the Docker Certification Exam version 1.0. I
 
 The content for each domain is from the study guide located in [Docker Certified Associate Study Guide and Registration](https://success.docker.com/certification).
 
+
+
 ##Domain 1: Orchestration (25% of exam)
 
 1. [Complete the setup of a swarm mode cluster, with managers and worker nodes](domain1/01.md) 
